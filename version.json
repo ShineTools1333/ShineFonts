@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
-  "build": 2,
+  "version": "1.0",
+  "build": 1,
   "downloadURL": "https://raw.githubusercontent.com/YOUR-ORG/YOUR-REPO/refs/heads/main/ShineFonts.zip",
   "notes": [
     "Added Shine Fonts auto-updater.",
