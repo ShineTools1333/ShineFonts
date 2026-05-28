@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "build": 1,
-  "downloadURL": "https://raw.githubusercontent.com/YOUR-ORG/YOUR-REPO/refs/heads/main/ShineFonts.zip",
+  "downloadURL": "https://raw.githubusercontent.com/ShineTools1333/ShineFonts/refs/heads/main/Shine%20Fonts.zip",
   "notes": [
     "Added Shine Fonts auto-updater.",
     "Activated Check for Updates from the menu bar icon.",
