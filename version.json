@@ -3,8 +3,6 @@
   "build": 1,
   "downloadURL": "https://raw.githubusercontent.com/ShineTools1333/ShineFonts/refs/heads/main/Shine%20Fonts.zip",
   "notes": [
-    "Added Shine Fonts auto-updater.",
-    "Activated Check for Updates from the menu bar icon.",
-    "Kept the same update/install structure as Shine Inventory."
+    "Initial Release."
   ]
 }
